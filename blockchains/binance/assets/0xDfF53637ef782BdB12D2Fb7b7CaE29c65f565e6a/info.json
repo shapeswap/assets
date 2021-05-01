@@ -1,0 +1,11 @@
+{
+    "name": "Shape Swap Finance",
+    "website": "https://www.shapeswap.finance/",
+    "description": "The Shape Swap is a platform that aims to be the first ever DEX to combine both ERC20 token and BEP20 token at a single liquidity pool.",
+    "explorer": "https://bscscan.com/token/0xDfF53637ef782BdB12D2Fb7b7CaE29c65f565e6a",
+    "type": "BEP20",
+    "symbol": "SHAPESWAP",
+    "decimals": 0,
+    "status": "active",
+    "id": "0xDfF53637ef782BdB12D2Fb7b7CaE29c65f565e6a"
+}
